@@ -9,5 +9,5 @@ Crie uma automação em Python para ser utilizada como lista de mercado, que ini
 Perguntar ao usuário qual item está comprando, se o item constar na lista, avisa que já foi comprado, e se não, adicionar a lista. 
 Após todos os itens da lista serem validados, o programa se encerra.
 
-# Exercício
+# Exercício 3
 Crie um programa que gere um número aleatório entre 1 e 10, e o usuário deve adivinhar o número aleatório.
